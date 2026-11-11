@@ -1,2 +1,0 @@
-# SPRINT
-SPRINT Dissertation Project

@@ -1,0 +1,15 @@
+Environments
+.venv/
+venv/
+env/
+
+# Model weights and heavy files
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.rar
+# Massive datasets
+*.jsonl
+*.gz
+
